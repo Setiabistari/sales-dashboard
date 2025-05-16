@@ -1,1 +1,1 @@
-# sales-dashboard
+# omg-dashboard
